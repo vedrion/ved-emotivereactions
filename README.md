@@ -4,7 +4,7 @@ A simple and fun script for FiveM servers that lets players trigger emotes, and 
 
 ## Preview
 
-![Preview](https://imgur.com/U9JNFEy.png)
+![Preview](https://i.ibb.co/V0JW6HyM/ved-emotive.png)
 
 ## Installation
 
